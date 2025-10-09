@@ -12,7 +12,7 @@
 - Learning Machine Learning fundamentals
 
 ### 🛠️ Tech Stack
-**Backend:** Python • FastAPI • SQLAlchemy • PostgreSQL • Redis • Selenium
+**Backend:** Python • FastAPI • SQLAlchemy • PostgreSQL • Redis 
 **Tools:** Docker • Git • Alembic • Pytest  
 **Learning:** Machine Learning • System Design • AWS
 
