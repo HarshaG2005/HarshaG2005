@@ -12,12 +12,13 @@
 - Learning Machine Learning fundamentals
 
 ### 🛠️ Tech Stack
-**Backend:** Python • FastAPI • SQLAlchemy • PostgreSQL • Redis 
+**Backend:** Python • FastAPI • SQLAlchemy • PostgreSQL • Redis • Selenium
 **Tools:** Docker • Git • Alembic • Pytest  
 **Learning:** Machine Learning • System Design • AWS
 
 ### 📫 Let's Connect
-[![LinkedIn](www.linkedin.com/in/harsha-gayantha-435902350)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/harsha-gayantha-435902350)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:harshaa7654@gmail.com)
 
 ---
 
