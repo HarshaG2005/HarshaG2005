@@ -1,16 +1,24 @@
-## Hi there 👋
+# Harsha Gayantha
 
-<!--
-**HarshaG2005/HarshaG2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer | FastAPI Enthusiast | Building Production-Grade APIs**
 
-Here are some ideas to get you started:
+🎓 Computer Science @ University of Jaffna  
+🇱🇰 Based in Sri Lanka | Open to Remote Opportunities  
+💻 Specializing in Python, FastAPI, PostgreSQL & ML Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Currently Working On
+- Building scalable REST APIs with FastAPI
+- Mastering Data Structures & Algorithms
+- Learning Machine Learning fundamentals
+
+### 🛠️ Tech Stack
+**Backend:** Python • FastAPI • SQLAlchemy • PostgreSQL • Redis 
+**Tools:** Docker • Git • Alembic • Pytest  
+**Learning:** Machine Learning • System Design • AWS
+
+### 📫 Let's Connect
+[![LinkedIn](www.linkedin.com/in/harsha-gayantha-435902350)
+
+---
+
+💡 *"Writing clean code and solving problems, one API at a time."*
