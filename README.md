@@ -15,6 +15,7 @@
 **Backend:** Python • FastAPI • SQLAlchemy • PostgreSQL • Redis 
 
 **Tools:** Docker • Git • Alembic • Pytest  
+
 **Learning:** Machine Learning • System Design • AWS
 
 ### 📫 Let's Connect
