@@ -1,7 +1,6 @@
 # Harsha Gayantha
 
 **Backend Developer | FastAPI Enthusiast | Building Production-Grade APIs**
-
 🎓 Computer Science @ University of Jaffna  
 🇱🇰 Based in Sri Lanka | Open to Remote Opportunities  
 💻 Specializing in Python, FastAPI, PostgreSQL & ML Engineering
