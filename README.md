@@ -1,6 +1,6 @@
 # Harsha Gayantha
 
-**Backend Developer | FastAPI Enthusiast | Building Production-Grade APIs**
+**Backend Developer | FastAPI Enthusiast |**
 
 🎓 Computer Science @ University of Jaffna  
 🇱🇰 Based in Sri Lanka | Open to Remote Opportunities  
@@ -12,11 +12,11 @@
 - Learning Machine Learning fundamentals
 
 ### 🛠️ Tech Stack
-**Backend:** Python • FastAPI • SQLAlchemy • PostgreSQL • Redis 
+**Backend:** Python • FastAPI • SQLAlchemy • PostgreSQL 
 
 **Tools:** Docker • Git • Alembic • Pytest  
 
-**Learning:** Machine Learning • System Design • AWS
+**Learning:**  Flask  • System Design • AWS • React
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/harsha-gayantha-435902350)
