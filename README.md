@@ -9,7 +9,7 @@ Currently moving toward **ML-oriented backend**: inference APIs, async pipelines
 ## ⭐ Featured Projects
 - **[NotifyX](link)** — Multi-Channel Notification Engin 
   **Tech:** FastAPI, PostgreSQL, SQLAlchemy, Docker,Celery,Redis,Promethius,Grafana 
-  **Highlights:** 
+  **Highlights:**celery-workers,redis-queue,monitering,websockets
 
 - **[Social Media API ](link)** — FastAPI Social Backend  
   **Tech:** FastAPI.postgreSQL,SQLAlchemy,Alembic,Docker  
