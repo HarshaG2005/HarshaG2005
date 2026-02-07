@@ -7,10 +7,12 @@
 </p>
 
 
-🎓 CS @ University of Jaffna • 🇱🇰 Sri Lanka • 🌍 Open to Remote
-
-I build **clean, scalable REST APIs** with Python/FastAPI + PostgreSQL.  
-Currently moving toward **ML-oriented backend**: inference APIs, async pipelines, and monitoring.
+  
+  
+  <p>Hi! I’m an ML-oriented backend developer based in Sri Lanka and a Computer Science student at the University of Jaffna.</p>  
+ 
+  
+---
 
 <h3>🧰Languages & Tools</h3>
 
