@@ -1,32 +1,34 @@
-# Harsha Gayantha
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=CDAFF7&center=true&repeat=false&width=435&lines=HARSHA+GAYANTHA" alt="Typing SVG" /></a>
+</p>
 
-**Python Backend Developer (FastAPI) | ML-Oriented Backend (in progress)**  
+<p align='center'>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A2D6F7&center=true&width=435&lines=ML-Oriented+Backend+Developer" alt="Typing SVG" /></a>
+</p>
+
+
 🎓 CS @ University of Jaffna • 🇱🇰 Sri Lanka • 🌍 Open to Remote
 
 I build **clean, scalable REST APIs** with Python/FastAPI + PostgreSQL.  
 Currently moving toward **ML-oriented backend**: inference APIs, async pipelines, and monitoring.
 
-## ⭐ Featured Projects
-- **[NotifyX](link)** — Multi-Channel Notification Engin 
-  **Tech:** FastAPI, PostgreSQL, SQLAlchemy, Docker,Celery,Redis,Promethius,Grafana 
-  **Highlights:**celery-workers,redis-queue,monitering,websockets
+<h3>🧰Languages & Tools</h3>
 
-- **[Social Media API ](link)** — FastAPI Social Backend  
-  **Tech:** FastAPI.postgreSQL,SQLAlchemy,Alembic,Docker  
-  **Highlights:** auth, CRUD, pagination, tests, migrations,rate-limiting
-
-## 🔭 Now
-- Building: production-style API features (auth,rate limiting, logging)
-- Learning: DSA + ML fundamentals (numpy/pandas/sklearn)
-- Next: model inference API + Prometheus/Grafana monitoring
-
-## 🧰 Tech Stack
-**Backend:** Python • FastAPI • SQLAlchemy • PostgreSQL  
-**Tools:** Docker • Git • Alembic • Pytest  
-**Basics:** Redis • Celery • Prometheus • Grafana
-
-## 📫 Contact
-- Email: harshaa7654@gmail.com
-- LinkedIn: ...
-- GitHub: ...
-
+  <img align='left' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align='left' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+   <img align='left' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain-wordmark.svg" />       
+  <img align='left' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img align='left' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
+  <img align='left' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img align='left' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" />
+  <img align='left' width='40px' style='padding-right:10px;' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" />
+          
+          
+            
+          
+          
+  
+  
+          
+          
+          
