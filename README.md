@@ -3,13 +3,13 @@
 </p>
 
 <p align='center'>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A2D6F7&center=true&width=435&lines=ML-Oriented+Backend+Developer" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=A2D6F7&center=true&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
 </p>
 
 
   
   
-  <p>Hi! I’m an ML-oriented backend developer based in Sri Lanka and a Computer Science student at the University of Jaffna.</p>  
+  <p>Hi! I’m an backend developer based in Sri Lanka.</p>  
  
   
 ---
